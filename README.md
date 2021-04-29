@@ -27,16 +27,16 @@ Por el momento me encuentro en busca de un trabajo como desarrollador full-stack
 ## Lenguajes/Tecnologías que manejo
 
 <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" title="HTML" width="80px" height="80px"/><img src="https://cdn.worldvectorlogo.com/logos/css3.svg" title="CSS" width="85px" height="85px"/>
-<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" title="JavaScript" width="75px" height="75px"/><img src="https://cdn.worldvectorlogo.com/logos/nodejs.svg" title="Nodejs" width="75px" height="75px"/><img src="https://cdn.worldvectorlogo.com/logos/mongodb.svg" title="Nodejs" width="75px" height="75px"/><img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" title="Git" width="80px" height="80px"/><img src="https://cdn.worldvectorlogo.com/logos/npm.svg" title="npm" width="80px" height="80px"/>
+<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" title="JavaScript" width="75px" height="75px"/><img src="https://cdn.worldvectorlogo.com/logos/nodejs.svg" title="Nodejs" width="75px" height="75px"/><img src="https://cdn.worldvectorlogo.com/logos/mongodb.svg" title="MongoDB" width="75px" height="75px"/><img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" title="Git" width="80px" height="80px"/><img src="https://cdn.worldvectorlogo.com/logos/npm.svg" title="npm" width="80px" height="80px"/>
 <br>
 <br>
 
 ## Lenguajes/Tecnologías que estoy aprendiendo
 <br>
 <br>
-<img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" title="Nodejs" width="75px" height="75px"/><img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" title="Nodejs" width="75px" height="75px"/>
 
-<br>
+<img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" title="PostgreSQL" width="75px" height="75px"/><img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" title="Reactjs" width="75px" height="75px"/>
+
 <br>
 
 ## Mis Estadisticas de github
@@ -81,16 +81,16 @@ Right now i'm looking for a job as full-stack web developer (Mern Pern) or as a 
 ## Known Programming languages/Tecnologies
 
 <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" title="HTML" width="80px" height="80px"/><img src="https://cdn.worldvectorlogo.com/logos/css3.svg" title="CSS" width="85px" height="85px"/>
-<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" title="JavaScript" width="75px" height="75px"/><img src="https://cdn.worldvectorlogo.com/logos/nodejs.svg" title="Nodejs" width="75px" height="75px"/><img src="https://cdn.worldvectorlogo.com/logos/mongodb.svg" title="Nodejs" width="75px" height="75px"/><img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" title="Git" width="80px" height="80px"/><img src="https://cdn.worldvectorlogo.com/logos/npm.svg" title="npm" width="80px" height="80px"/>
+<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" title="JavaScript" width="75px" height="75px"/><img src="https://cdn.worldvectorlogo.com/logos/nodejs.svg" title="Nodejs" width="75px" height="75px"/><img src="https://cdn.worldvectorlogo.com/logos/mongodb.svg" title="MongoDB" width="75px" height="75px"/><img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" title="Git" width="80px" height="80px"/><img src="https://cdn.worldvectorlogo.com/logos/npm.svg" title="npm" width="80px" height="80px"/>
 <br>
 <br>
 
 ## Currently learning
 <br>
 <br>
-<img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" title="Nodejs" width="75px" height="75px"/><img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" title="Nodejs" width="75px" height="75px"/>
 
-<br>
+<img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" title="PostgreSQL" width="75px" height="75px"/><img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" title="Reactjs" width="75px" height="75px"/>
+
 <br>
 
 ## My github stats
