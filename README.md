@@ -43,16 +43,21 @@ Por el momento me encuentro en busca de un trabajo como desarrollador full-stack
 ## Mis Estadisticas de github
 <br>
 
+
 <p align='center'>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JFernando122&show_icons=true&theme=highcontrast&count_private=true&locale=es)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JFernando122&show_icons=true&theme=highcontrast&count_private=true&locale=es" />
+</a>
 
 </p>
 
 
 <p align='center'>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JFernando122&show_icons=true&theme=highcontrast&count_private=true&hide=c&locale=es)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JFernando122&show_icons=true&theme=highcontrast&count_private=true&hide=c&locale=es" />
+</a>
 
 </p>
 
@@ -99,13 +104,17 @@ Right now i'm looking for a job as full-stack web developer (Mern Pern) or as a 
 <br>
 <p align='center'>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JFernando122&show_icons=true&theme=highcontrast&count_private=true&locale=es)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JFernando122&show_icons=true&theme=highcontrast&count_private=true" />
+</a>
 
 </p>
 
 
 <p align='center'>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JFernando122&show_icons=true&theme=highcontrast&count_private=true&hide=c&locale=es)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JFernando122&show_icons=true&theme=highcontrast&count_private=true&hide=c" />
+</a>
 
 </p>
