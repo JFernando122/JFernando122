@@ -15,13 +15,14 @@ Actualmente me encuentro estudiando la carrera de **Ingeniería en ciencias de l
 Por el momento me encuentro en busca de un trabajo como desarrollador full-stack (MERN/PERN) o como desarrolador back-end con Nodejs. Busco ya sea un trabajo de manera remota, o presencial cerca de donde estoy (Heroica Publa de Zaragoza- México). Puedes contactarme con cualquiera de los links de abajo :).
 
 
-<div style='text-align:center;'>
+<p align='center'>
 <a href="mailto:fersi132@gmail.com"><img height="24" width="24" src="https://unpkg.com/simple-icons@v3/icons/gmail.svg" valign="middle" />&nbsp; <samp>Gmail</samp></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/JFernando122"><img height="24" width="24" src="https://unpkg.com/simple-icons@v3/icons/github.svg" valign="middle" />&nbsp; <samp>GitHub</samp></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/fernando-flores-3432931b7/"><img height="24" width="24" src="https://unpkg.com/simple-icons@v3/icons/linkedin.svg" valign="middle" />&nbsp; <samp>Linked In</samp></a>
-</div>
+</p>
+
 <br>
 
 ## Lenguajes/Tecnologías que manejo
@@ -41,18 +42,19 @@ Por el momento me encuentro en busca de un trabajo como desarrollador full-stack
 
 ## Mis Estadisticas de github
 <br>
-<section style='text-align:center;'>
+
+<p align='center'>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JFernando122&show_icons=true&theme=highcontrast&count_private=true&locale=es)](https://github.com/anuraghazra/github-readme-stats)
 
-</section>
+</p>
 
 
-<section style='text-align:center;'>
+<p align='center'>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JFernando122&show_icons=true&theme=highcontrast&count_private=true&hide=c&locale=es)](https://github.com/anuraghazra/github-readme-stats)
 
-</section>
+</p>
 
 <br><hr/><br>
 <div id='ingles'></div>
@@ -69,13 +71,13 @@ Currently i'm studying **Computer cience engineering** at *Beneméirta Universid
 ## Looking for a job opportunity
 Right now i'm looking for a job as full-stack web developer (Mern Pern) or as a back-end Developer with node. I'm specially interested in full remote jobs or jobs near were i live (Heroica Puebla de Zaragoza México). Feel free to contact me on the links below :)
 
-<div style='text-align:center;'>
+<p align='center'>
 <a href="mailto:fersi132@gmail.com"><img height="24" width="24" src="https://unpkg.com/simple-icons@v3/icons/gmail.svg" valign="middle" />&nbsp; <samp>Gmail</samp></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/JFernando122"><img height="24" width="24" src="https://unpkg.com/simple-icons@v3/icons/github.svg" valign="middle" />&nbsp; <samp>GitHub</samp></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/fernando-flores-3432931b7/"><img height="24" width="24" src="https://unpkg.com/simple-icons@v3/icons/linkedin.svg" valign="middle" />&nbsp; <samp>Linked In</samp></a>
-</div>
+</p>
 <br>
 
 ## Known Programming languages/Tecnologies
@@ -95,15 +97,15 @@ Right now i'm looking for a job as full-stack web developer (Mern Pern) or as a 
 
 ## My github stats
 <br>
-<section style='text-align:center;'>
+<p align='center'>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JFernando122&show_icons=true&theme=highcontrast&count_private=true&locale=es)](https://github.com/anuraghazra/github-readme-stats)
 
-</section>
+</p>
 
 
-<section style='text-align:center;'>
+<p align='center'>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JFernando122&show_icons=true&theme=highcontrast&count_private=true&hide=c&locale=es)](https://github.com/anuraghazra/github-readme-stats)
 
-</section>
+</p>
