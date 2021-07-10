@@ -11,9 +11,7 @@
 
 Actualmente me encuentro estudiando la carrera de **Ingeniería en ciencias de la computaciíon** en la *Benemérita Universidad Autónoma de Puebla (BUAP)* y aprendiendo desarrollo web por mi cuenta, con proyectos personales y contribuyendo a repositorios de código abierto.
 
-## En busca de trabajo
-Por el momento me encuentro en busca de un trabajo como desarrollador full-stack (MERN/PERN) o como desarrolador back-end con Nodejs. Busco ya sea un trabajo de manera remota, o presencial cerca de donde estoy (Heroica Publa de Zaragoza- México). Puedes contactarme con cualquiera de los links de abajo :).
-
+## Contacto
 
 <p align='center'>
 <a href="mailto:fersi132@gmail.com"><img height="24" width="24" src="https://unpkg.com/simple-icons@v3/icons/gmail.svg" valign="middle" />&nbsp; <samp>Gmail</samp></a>
@@ -73,8 +71,7 @@ Por el momento me encuentro en busca de un trabajo como desarrollador full-stack
 
 Currently i'm studying **Computer cience engineering** at *Beneméirta Universidad Autínoma de Puebla (BUAP)* and learning web development on my own time, with personal proyects and by contributing to open-source repositories here on github.
 
-## Looking for a job opportunity
-Right now i'm looking for a job as full-stack web developer (Mern Pern) or as a back-end Developer with node. I'm specially interested in full remote jobs or jobs near were i live (Heroica Puebla de Zaragoza México). Feel free to contact me on the links below :)
+## Contact info
 
 <p align='center'>
 <a href="mailto:fersi132@gmail.com"><img height="24" width="24" src="https://unpkg.com/simple-icons@v3/icons/gmail.svg" valign="middle" />&nbsp; <samp>Gmail</samp></a>
