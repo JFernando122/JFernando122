@@ -16,7 +16,6 @@ Actualmente me encuentro estudiando la carrera de **Ingeniería en ciencias de l
 <p align='center'>
 <a href="mailto:fersi132@gmail.com"><img height="24" width="24" src="https://unpkg.com/simple-icons@v3/icons/gmail.svg" valign="middle" />&nbsp; <samp>Gmail</samp></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/JFernando122"><img height="24" width="24" src="https://unpkg.com/simple-icons@v3/icons/github.svg" valign="middle" />&nbsp; <samp>GitHub</samp></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/fernando-flores-3432931b7/"><img height="24" width="24" src="https://unpkg.com/simple-icons@v3/icons/linkedin.svg" valign="middle" />&nbsp; <samp>Linked In</samp></a>
 </p>
@@ -76,7 +75,6 @@ Currently i'm studying **Computer cience engineering** at *Beneméirta Universid
 <p align='center'>
 <a href="mailto:fersi132@gmail.com"><img height="24" width="24" src="https://unpkg.com/simple-icons@v3/icons/gmail.svg" valign="middle" />&nbsp; <samp>Gmail</samp></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/JFernando122"><img height="24" width="24" src="https://unpkg.com/simple-icons@v3/icons/github.svg" valign="middle" />&nbsp; <samp>GitHub</samp></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/fernando-flores-3432931b7/"><img height="24" width="24" src="https://unpkg.com/simple-icons@v3/icons/linkedin.svg" valign="middle" />&nbsp; <samp>Linked In</samp></a>
 </p>
